@@ -7,6 +7,4 @@ How to use:
 
 - Download or colone   
 
-- npm init  
-
 - npm start  
